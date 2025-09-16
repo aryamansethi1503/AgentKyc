@@ -1,4 +1,4 @@
-#!/home/aryamansethi/kyc_agent/venv/bin/python3
+#!/home/aryamansethi/kyc_agent/AgentKyc/venv/bin/python3
 # -*- coding: utf-8 -*-
 import re
 import sys
